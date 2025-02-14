@@ -141,7 +141,7 @@ export default function Home() {
         className="text-4xl sm:text-6xl font-bold text-red-600 drop-shadow-lg animate-pulse"
       >
         
-        ¿Quieres ser mi Valentín? ❤️
+        ¿Quieres ser mi Valentín Mesh? ❤️
       </motion.h1>
 
       {accepted === null ? (
